@@ -4,7 +4,7 @@ import math
 
 client = discord.Client()
 
-apiKey = 'B802E0A7FF213F81D79902FD00074EB1'
+apiKey = 'get your own' # I can't share mine :(
 
 #Players in DotA 2 matches that can be bought and sold
 class Player :
@@ -325,6 +325,6 @@ readUsers()
 readPlayers()
 
 # Run the bot
-client.run('OTQ2NDA5NzM0NDIzMDg1MTQ3.YheSwA.NlYMO9HLLTboFeSY75ErwoT94rQ')
+client.run('') # <-- The bot's password goes there
 
 
